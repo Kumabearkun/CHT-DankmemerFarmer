@@ -1,3 +1,5 @@
+Install Visual Studio Code (recommended) to run and stop the the script or other software
+
 Please open up your terminal and type
 
 "pip install pynput"
